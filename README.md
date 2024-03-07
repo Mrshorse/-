@@ -1,4 +1,4 @@
-# -
+# 
 汉诺塔小程序
 def hanoi(n,x,y,z):
     if n ==1:
